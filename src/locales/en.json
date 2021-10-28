@@ -1,0 +1,46 @@
+{
+    "Create an account": "Create an account",
+    "Please sign in": "Please sign in",
+    "Email address" : "Email address",
+    "Password" : "Password",
+    "Sign in" : "Sign in",
+    "New here": "New here",
+
+    "Create your User" : "Create your User",    
+    "User Name" : "User Name",
+    "Confirmation Password" : "Confirmation Password",
+    "Create a User" : "Create a User",
+
+    "Create your Profile" : "Create your Profile",
+    "Name" : "Name",
+    "Your name" : "Your name",
+    "Fiscal number" : "Fiscal number",
+    "Birth Date" : "Birth Date",
+    "Select an ID Type" : "Select an ID Type",
+    "Document number" : "Document number",
+    "Document issuer" : "Document issuer",
+    "Phone number" : "Phone number",
+    "Choose your career" : "Choose your career",
+    "City" : "City",
+    "Street" : "Street",
+    "Neighborhood" : "Neighborhood",
+    "Postal code" : "Postal code",
+    "Street number" : "Street number",
+    "Region" : "Region",
+    "Additional information" : "Additional information",
+    "Create a Profile" : "Create a Profile",
+    "Document type": "Document type",
+
+    "Profile" : "Profile",
+    "Login" : "Login",
+    "Logout" : "Logout",
+    "User" : "User",
+    "Exit" : "Exit",
+    "confirm": "Are you sure you want to quit?",
+
+    "Unprocessable Entity": "Unprocessable Entity",
+    "The given data was invalid.": "The given data was invalid",
+    "Internal Error": "Internal Error",
+
+    "Welcome": "Welcome"
+}

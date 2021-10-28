@@ -1,0 +1,47 @@
+{
+  "Create an account": "Crie a sua conta aqui",
+  "Please sign in": "Por favor, inscreva-se",
+  "Email address" : "Endereço de e-mail",
+  "Password" : "Senha",
+  "Sign in" : "Entrar",
+  "New here": "Você é novo por aqui",
+
+  "Create your User" : "Crie seu usuário",    
+  "User Name" : "Nome de usuário",
+  "Confirmation Password" : "Confirmação da senha",
+  "Create a User" : "Criar um usuário",
+
+  "Create your Profile" : "Crie seu perfil",
+  "Name" : "Nome",
+  "Your name" : "Seu nome",
+  "Fiscal number" : "Número fiscal",
+  "Birth Date" : "Data de nascimento",
+  "Select an ID Type" : "Selecione um tipo de ID",
+  "Document number" : "Número do documento",
+  "Document issuer" : "Emissor do documento",
+  "Phone number" : "Número do telefone",
+  "Choose your career" : "Escolha sua profissão",
+  "City" : "Cidade",
+  "Street" : "Rua",
+  "Neighborhood" : "Bairro",
+  "Postal code" : "Código postal",
+  "Street number" : "Número da rua",
+  "Region" : "Estado",
+  "Additional information" : "Informações adicionais",
+  "Create a Profile" : "Crie um Perfil",
+  "Document type": "Tipo do documento",
+
+
+  "Profile" : "Perfil",
+  "Login" : "Autenticação",
+  "Logout" : "Sair",
+  "User" : "Cadastro",
+  "Exit" : "Sair",
+  "confirm": "Você tem certeza que quer sair?",
+
+  "Unprocessable Entity": "Entidade não processável",
+  "The given data was invalid.": "Os dados fornecidos são inválidos.",
+  "Internal Error": "Erro interno",
+
+  "Welcome": "Bem-vindo"
+}
